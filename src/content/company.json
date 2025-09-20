@@ -1,0 +1,20 @@
+{
+  "site": {
+    "siteName": "Dynapt",
+    "heroTitle": "Insights and stories from the Dynapt team",
+    "logoUrl": "https://dynapt.com/favicon.ico"
+  },
+  "theme": {
+    "colors": {
+      "primary": "#e2e8f0",
+      "secondary": "#020817",
+      "background": "#16a34a",
+      "foreground": "#020817"
+    }
+  },
+  "seo": {
+    "title": "Dynapt - Production-Ready AI Solutions | Enterprise AI Transformation",
+    "description": "Unlock measurable ROI in weeks with Dynapt's AI-powered Automation and Custom AI Agents—production-ready, scalable solutions that transform operations across industries.",
+    "keywords": "ai agents, custom ai, business automation, artificial intelligence, business, key benefits, key, production-ready ai, production-ready, solutions, ai solutions, ai transformation, enterprise, benefits"
+  }
+}
