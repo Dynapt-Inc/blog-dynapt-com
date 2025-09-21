@@ -1,7 +1,7 @@
 {
   "site": {
-    "siteName": "Acme Insights Blog",
-    "logoUrl": "/next.svg",
+    "siteName": "Dynapt",
+    "logoUrl": "https://dynapt.com/favicon.ico",
     "heroTitle": "Insights and stories from the Acme team",
     "heroSubtitle": "Thought leadership, case studies, and best practices to help you grow.",
     "heroImageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1600&auto=format&fit=crop",
@@ -9,6 +9,27 @@
     "aboutImageUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop",
     "contactEmail": "hello@acme.co",
     "contactPhone": "+1 (415) 555-0101",
-    "contactAddress": "500 Market St, San Francisco, CA"
+    "contactAddress": "500 Market St, San Francisco, CA",
+    "theme": {
+      "colors": {
+        "primary": "#e2e8f0",
+        "secondary": "#020817",
+        "background": "#16a34a",
+        "foreground": "#020817"
+      }
+    }
+  },
+  "theme": {
+    "colors": {
+      "primary": "#e2e8f0",
+      "secondary": "#020817",
+      "background": "#16a34a",
+      "foreground": "#020817"
+    }
+  },
+  "seo": {
+    "title": "Dynapt - Production-Ready AI Solutions | Enterprise AI Transformation",
+    "description": "Unlock measurable ROI in weeks with Dynapt's AI-powered Automation and Custom AI Agents—production-ready, scalable solutions that transform operations across industries.",
+    "keywords": "AI agents, custom AI, enterprise AI, business automation, artificial intelligence"
   }
 }
